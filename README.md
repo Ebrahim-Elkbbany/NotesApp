@@ -1,6 +1,6 @@
 # Notes App
 
-**Notes app made using Flutter with Hive as Local storage and blac as state management**
+**Notes app made using Flutter with Hive as Local storage and bloc as state management**
 
 ## Features 
 - ✍️ Craft & Revise Notes Easily: Create and adjust your thoughts with simplicity.
